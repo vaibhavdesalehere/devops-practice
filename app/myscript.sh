@@ -13,3 +13,5 @@ echo "Memory usage : "
 free -h
 echo "==============================="
 
+
+echo "Script updated - version 2"
